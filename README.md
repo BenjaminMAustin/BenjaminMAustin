@@ -3,9 +3,10 @@
 -I’m currently learning more Python for OCR and NLP.
 
 Contents:
--capstone-cyclistic-bike-share-analysis.ipynb
+- capstone-cyclistic-bike-share-analysis.ipynb
       This is a Data Cleaning and Analysis project using R. It was the capstone project for my Data Analytics Certificate
--project.ipynb
+
+- project.ipynb
       This is a Python Pillow, OpenCV, PyTessaract project for a course I took on Coursera
 
 
